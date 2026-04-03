@@ -4,7 +4,7 @@
 
 ## 1. About GitHub, Markdown, Colab
 
-- [GitHub 사용법](./)
+- [GitHub 사용법](./jetson-guide-book.md)
 - [Markdown 문법](./markdown.md)
 - [Colab 기초](./colab.md)
 
