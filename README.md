@@ -4,7 +4,7 @@
 
 ## 1. 모방학습 (Imitation Learning)
 
-- [모방학습 개요](./모방학습.md)
+- [모방학습 개요](./robotis-il-guide.md)
 
 ---
 
