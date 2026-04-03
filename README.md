@@ -10,7 +10,7 @@
 
 ## 2. 하드웨어 / 제어
 
-- [OMX-서버모터](./OMX-serve-motor)
+- [OMX-서버모터](./OMX-serve-motor.md)
 
 ---
 
