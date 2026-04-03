@@ -4,7 +4,7 @@
 
 ## 1. About GitHub, Markdown, Colab
 
-- [GitHub 사용법](./github.md)
+- [GitHub 사용법](./https://github.com/TeeCara/jetson.guide-book/commit/7fdd50d08b683ba210be4c5e44d50c1194f43fb5))
 - [Markdown 문법](./markdown.md)
 - [Colab 기초](./colab.md)
 
