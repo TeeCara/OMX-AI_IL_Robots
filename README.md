@@ -13,7 +13,9 @@
 - [서브 모터](https://ai.robotis.com/omx/introduction_omx.html)
 - [OMX-serve-motor](./OMX-serve-motor.md)
 ## 2-1.서브 모터 ID 세팅
-[서브 모터 사용 가이드](https://ai.robotis.com/omx/assembly_guide_omx.html)
+-[서브 모터 사용 가이드](https://ai.robotis.com/omx/assembly_guide_omx.html)
+
+-[OMX 모터 개념](./OMX_motor.md)
 
 -[서브 모터 ID 설정법](./servemotor_ID_Condition.md)
 
