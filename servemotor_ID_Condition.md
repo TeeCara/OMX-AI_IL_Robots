@@ -28,6 +28,10 @@
 7. `ID` 탭에 들어간다.
 8. 원하는 ID를 선택한다.
 9. `저장(Save)` 버튼을 누른다.
+<img width="2252" height="4000" alt="KakaoTalk_20260508_142119967" src="https://github.com/user-attachments/assets/6fcc97cb-69b9-4a34-a2fe-a47d9c26b6ce" />
+오류화면
+<img width="591" height="463" alt="스크린샷 2026-05-08 130805" src="https://github.com/user-attachments/assets/024657e0-7c8c-4227-9021-e1c402f9a5c8" />
+
 
 ---
 
