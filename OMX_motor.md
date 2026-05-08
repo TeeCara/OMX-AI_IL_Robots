@@ -10,7 +10,7 @@ OMX는 Leader와 Follower 구조로 구성되어 있다.
 Follower 모터의 ID를 Leader와 다르게 설정해야 충돌 없이 정상적으로 동작한다.
 
 기본적으로 Leader는 ID 1~6을 사용하므로,
-Follower는 ID 11~16으로 변경하여 사용한다.
+Follower는 ID 11에서16으로 변경하여 사용한다.
 
 ---
 
