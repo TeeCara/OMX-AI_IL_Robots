@@ -22,6 +22,8 @@ Follower는 ID 11에서16으로 변경하여 사용한다.
 - 외부 전원(SMPS 또는 배터리)
 - Dynamixel Wizard 2.0 프로그램
 - Windows 또는 Ubuntu PC
+<img width="1184" height="2560" alt="KakaoTalk_20260508_142450774" src="https://github.com/user-attachments/assets/15df384d-626f-41b8-a332-3d4e0c17f91b" />
+
 
 ---
 
@@ -40,6 +42,8 @@ Follower는 ID 11에서16으로 변경하여 사용한다.
 
 - USB 포트와 DXL 포트는 다르다.
 - DXL 포트에 연결되어 있어야 모터 검색이 가능하다.
+<img width="1184" height="2560" alt="KakaoTalk_20260508_132012537" src="https://github.com/user-attachments/assets/19675fef-b425-40a0-8719-75a375dd5fb0" />
+
 
 ---
 
